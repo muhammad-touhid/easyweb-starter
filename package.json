@@ -5,10 +5,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "prisma generate && next build",
-    "start": "next start"
+    "start": "next start",
+    "update-deps": "npx npm-check-updates -u && npm install"
   },
   "dependencies": {
-    "next": "15.0.0",
+    "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "@prisma/client": "^6.0.0",
