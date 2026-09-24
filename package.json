@@ -13,13 +13,13 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "@prisma/client": "^6.0.0",
-    "next-auth": "5.0.0-beta.25",
+    "next-auth": "^5.0.0-beta.32",
     "@auth/prisma-adapter": "^2.0.0",
     "@measured/puck": "^0.18.0",
-    "@easyweb/page-builder": "^1.0.0",
-    "@easyweb/auth-kit": "^1.0.0",
-    "@easyweb/admin-kit": "^1.0.0",
-    "@easyweb/form-system": "^1.0.0"
+    "@easyweb59/page-builder": "^1.0.0",
+    "@easyweb59/auth-kit": "^1.0.0",
+    "@easyweb59/admin-kit": "^1.0.0",
+    "@easyweb59/form-system": "^1.0.0"
   },
   "devDependencies": {
     "prisma": "^6.0.0",
